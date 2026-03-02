@@ -22,6 +22,6 @@ The key insight is **matrix rank** — weight update matrices during fine-tuning
 
 📝 Code reference : [code reference](https://github.com/hkproj/pytorch-lora/blob/main/lora.ipynb)
 
-📝 Medium: `<your-medium-link>`
+📝 Medium: `[link](https://medium.com/p/93bbe1c50dfd?postPublishedType=initial)`
 
 📄 Paper: [Hu et al., 2021](https://arxiv.org/abs/2106.09685)
