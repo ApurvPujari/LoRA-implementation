@@ -20,8 +20,8 @@ PyTorch's `parametrize.register_parametrization` hooks into weight access transp
 
 The key insight is **matrix rank** — weight update matrices during fine-tuning are inherently low-rank, meaning the adaptation needed for a specific task lives in a small subspace. Full details in the article below.
 
-📝 Code reference : [code reference](https://github.com/hkproj/pytorch-lora/blob/main/lora.ipynb)
+📝 Code reference : [link](https://github.com/hkproj/pytorch-lora/blob/main/lora.ipynb)
 
-📝 Medium: `[link](https://medium.com/p/93bbe1c50dfd?postPublishedType=initial)`
+📝 Medium: [link](https://medium.com/p/93bbe1c50dfd?postPublishedType=initial)
 
-📄 Paper: [Hu et al., 2021](https://arxiv.org/abs/2106.09685)
+📄 Paper: [LoRA](https://arxiv.org/abs/2106.09685)
